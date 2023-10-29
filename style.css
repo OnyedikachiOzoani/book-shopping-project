@@ -1,0 +1,17 @@
+/** @format */
+
+html,
+body,
+div.container {
+	width: 100%;
+	height: 100%;
+}
+
+body {
+	background-color: rgb(15, 15, 86);
+	color: white;
+}
+
+#show-books {
+	cursor: pointer;
+}
